@@ -1,0 +1,28 @@
+{
+  "name": "backend-dev-assignment-maestro",
+  "version": "1.0.0",
+  "description": "backend assignment",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steppinonland/backend-dev-assignment-maestro.git"
+  },
+  "keywords": [
+    "backend",
+    "development",
+    "node",
+    "express",
+    "sequelize"
+  ],
+  "author": "stephanie landgraf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steppinonland/backend-dev-assignment-maestro/issues"
+  },
+  "homepage": "https://github.com/steppinonland/backend-dev-assignment-maestro#readme"
+}
